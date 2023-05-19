@@ -4,8 +4,9 @@ Consider a coin-flipping game with two players with $p$ and $q = 1 - p$ chance o
 penny to the winner. The game ends when one player has all the pennies. Let the first and second player start with fortunes n<sub>1</sub> and n<sub>2</sub> pennies 
 respectively, what is the probability of the first player winning?
 
-This repository contains a theoretical [derivation][https://github.com/philipenzobui/gamblers-ruin/blob/main/GamblersRuin.pdf] for 
-the answer to this popular problem and some [Python code][https://github.com/philipenzobui/gamblers-ruin/blob/main/GamblerRuinSimulations.py] to run some simulations.
+This repository contains a theoretical [derivation](https://github.com/philipenzobui/gamblers-ruin/blob/main/GamblersRuin.pdf) for 
+the answer to this popular problem and a [Python script](https://github.com/philipenzobui/gamblers-ruin/blob/main/GamblerRuinSimulations.py) to run simulations and
+generate a visualization.
 
 Here's a representation of 1,000,000 simulations for the probability of winning starting with n<sub>1</sub> = n<sub>2</sub> = 10 using the odds of European (single-zero)
 and American (double-zero) style roulettes. The theoretical answers are P(European) = 0.36803 and P(American) = 0.25853.
