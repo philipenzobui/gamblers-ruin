@@ -12,7 +12,7 @@ Here's a representation of 1,000,000 simulations for the probability of winning 
 and American (double-zero) style roulettes. The theoretical answers are P(European) = 0.36803 and P(American) = 0.25853.
 
 <p align="center">
-  <img src="https://github.com/philipenzobui/gamblers-ruin/assets/104658293/fa91d85d-5b6d-4b71-852f-79683373471e">
+  <img src="https://github.com/philipenzobui/gamblers-ruin/assets/104658293/636b002f-bb1f-430e-a2b2-18a2c465c500">
 <p>
   
   
